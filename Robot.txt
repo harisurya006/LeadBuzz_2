@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /
+Sitemap: https://harisurya006.github.io/LeadBuzz_2/sitemap.xml
